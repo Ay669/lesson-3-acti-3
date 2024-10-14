@@ -1,0 +1,25 @@
+.p1 {
+    text-shadow: 2px 2px 1px rgb(219, 34, 34);
+    color: rgb(9, 9, 136);
+    background: rgb(240, 209, 169);
+
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p2 {
+    text-shadow: 2px 2px 1px rgb(248, 244, 244);
+    color: rgb(21, 14, 121);
+    background: rgb(139, 161, 37);
+
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-image:url("https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover
+
+}
